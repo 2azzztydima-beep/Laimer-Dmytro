@@ -1,0 +1,28 @@
+body {
+    background-color: #f0f0f0;
+    font-family: Arial;
+}
+
+h1 {
+    color: darkblue;
+}
+
+p {
+    font-size: 16px;
+}
+.goals-list {
+    background-color: rgb(16, 215, 56);
+    padding: 10px;
+    border: 1px solid gray;
+}
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+}
+body {
+    text-align: center;
+}
